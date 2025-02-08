@@ -122,7 +122,7 @@ For questions or feedback, please open an issue on GitHub or contact the maintai
 
 - **Your Name** Gaurav Narendrakumar Mehta
 - **Email**: mehtag313@gmail.com
-- **GitHub**: [your-username](https://github.com/g4ever81)
+- **GitHub**: [g4ever81](https://github.com/g4ever81)
 
 ---
 
