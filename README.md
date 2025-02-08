@@ -100,7 +100,7 @@ This is an iOS app built using **SwiftUI** that allows users to search for image
 
 ---
 
-## Future Improvements
+## Extra Credit
 
 - **Accessibility Support**: Add VoiceOver and Dynamic Type support.
 - **Landscape Orientation**: Support landscape mode for better usability.
@@ -120,9 +120,10 @@ This is an iOS app built using **SwiftUI** that allows users to search for image
 
 For questions or feedback, please open an issue on GitHub or contact the maintainer:
 
-- **Your Name** Gaurav Narendrakumar Mehta
+- **Your Name**: Gaurav Narendrakumar Mehta
 - **Email**: mehtag313@gmail.com
 - **GitHub**: [g4ever81](https://github.com/g4ever81)
+- **LinkedIn**: [Gaurav Mehta](https://www.linkedin.com/in/gnmehta/)
 
 ---
 
